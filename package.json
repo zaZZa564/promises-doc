@@ -1,0 +1,25 @@
+{
+  "name": "promises-doc",
+  "version": "1.0.0",
+  "description": "learning promises",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaZZa564/promises-doc.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "zaZZa564",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaZZa564/promises-doc/issues"
+  },
+  "homepage": "https://github.com/zaZZa564/promises-doc#readme",
+  "dependencies": {
+    "currency-converter-lt": "^2.0.1"
+  }
+}
